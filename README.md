@@ -1,16 +1,22 @@
-## Hi there 👋
+# Miguel Santana
 
-<!--
-**miguelsantanadv/miguelsantanadv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Miguel, tenho 25 anos e sou do Rio de Janeiro. Tenho graduação em Análise e Desenvolvimento de Sistemas pela FAETERJ-Rio, com experiência prática em análise, organização de dados e desenvolvimento de sistemas. Possuo conhecimentos em Python, HTML, CSS, PHP, Javascript, Java e Oracle. Além de experiência acadêmica em projetos com Inteligência Artificial e automação de relatórios, tratamento e padronização de dados no IBGE.
 
-Here are some ideas to get you started:
+### 📊 Estatísticas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=miguelsantanadv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsantanadv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
